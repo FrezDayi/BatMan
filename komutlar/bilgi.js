@@ -14,7 +14,7 @@ exports.run = (client, message) => {
     .setColor(0x00AE86)
     .setTimestamp()
     .setAuthor(message.author.username, message.author.avatarURL)
-    .setDescription('Bot sürümü: 1.0.0  Yapımcı: The Flash - Batman Bot Ekibi  :fire:  **:fire:**\n\n_**BOT Davet Linki:**_\n\nhttps://discordapp.com/api/oauth2/authorize?client_id=464805066155622401&permissions=2146958583&scope=bot \n\n_**Bot Destek Sunucusu: https://discord.gg/hxB6KNN **_\n\n**The Flash** sunucusunun davet linki: https://discord.gg/hxB6KNN  \n\n**:copyright: 2018 The Flash**');
+    .setDescription('Bot sürümü: 1.0.0  Yapımcı: SuperMan - Batman Bot Ekibi  :fire:  **:fire:**\n\n_**BOT Davet Linki:**_\n\nhttps://discordapp.com/api/oauth2/authorize?client_id=464805066155622401&permissions=2146958583&scope=bot \n\n_**Bot Destek Sunucusu: https://discord.gg/hxB6KNN **_\n\n**The Flash** sunucusunun davet linki: https://discord.gg/hxB6KNN  \n\n**:copyright: 2018 The Flash**');
     return message.author.sendEmbed(pingozel)
 };
 
