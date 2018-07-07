@@ -7,7 +7,7 @@ exports.run = (client, message) => {
     .setColor(0x00AE86)
     .setTimestamp()
     .setAuthor(message.author.username, message.author.avatarURL)
-    .setDescription('**Yeni Bir 3dgif İster Misiniz? İsterseniz Evet İstemezseniz Hayır Yazabilirsiniz.**')
+    .setDescription('**Yeni Bir 3dgif İster Misiniz? İsterseniz evetistiyorum İstemezseniz hayıristemiyorum Yazabilirsiniz.**')
 	.setImage('http://www.imgim.com/b88c219267195560cb6f08857b.gif' ,);
     message.channel.sendEmbed(ozelmesajkontrol) }
 	const pingozel = new Discord.RichEmbed()
