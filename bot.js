@@ -80,7 +80,7 @@ client.unload = command => {
 
 client.on('message', msg => {
   if (msg.content.toLowerCase() === 'sa') {
-    msg.reply('**Ve Aleyküm Selam Hoş Geldin Flash Bizde Seni Bekliyorduk ;)**^^');
+    msg.reply('**Ve Aleyküm Selam Hoş Geldin Adamım Bizde Seni Bekliyorduk ;)**^^');
   }
 });
 
