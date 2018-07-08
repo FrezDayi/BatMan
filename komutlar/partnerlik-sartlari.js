@@ -8,7 +8,7 @@ exports.run = function(client, message, args) {
   .addField("**3.** `Eğer Partnerliğimizi Silerseniz Partnerlik Iptal Olur!,","ᅠ")
   .addField("**4.** `BOT^umuzu Sunucunuza Eklemelisiniz!","ᅠ")
   .addField("**YUKARDAKI KURALLARA UYULMADIGI TAKDIRDE PARTNERLIK IPTAL OLUR!!!**","ᅠ")
-  .setFooter("♥ 2018 ♥ THE FLASH ♥ BOT ♥ 0.5.0 V ♥", "https://cdn.discordapp.com/attachments/464130193569873920/464838145066926120/2109042164x64.jpg")
+  .setFooter("♥ 2018 ♥ Thor BOT ♥ BOT ♥ 0.5.0 V ♥", "https://cdn.discordapp.com/attachments/464130193569873920/464838145066926120/2109042164x64.jpg")
 
 
   message.channel.send({embed});
