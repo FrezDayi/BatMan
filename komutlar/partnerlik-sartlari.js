@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 exports.run = function(client, message, args) {
   const embed = new Discord.RichEmbed()
-  .setTitle("THE FLASH BOT ! \n")
+  .setTitle("Thor BOT ! \n")
   .setColor("RANDOM")
   .addField("**1.** `40+ kişilik sunucunuz olmalı.","ᅠ")
   .addField("**2.** `Günlük aktif 20 üyeniz olmalıdır.","ᅠ")
